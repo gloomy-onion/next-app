@@ -1,0 +1,108 @@
+/* [project]/src/modules/Item/TodoItem.module.scss.module.css [client] (css) */
+.TodoItem-module-scss-module__V6iBEq__todoItem {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.TodoItem-module-scss-module__V6iBEq__todoItemButtons {
+  max-width: 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.TodoItem-module-scss-module__V6iBEq__todoItemDone {
+  text-decoration: line-through;
+}
+
+.TodoItem-module-scss-module__V6iBEq__todoItemLabel {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.TodoItem-module-scss-module__V6iBEq__todoIcons {
+  font-size: 24px;
+}
+
+.TodoItem-module-scss-module__V6iBEq__todoItemText {
+  font-size: 20px;
+}
+
+
+/* [project]/src/shared/lib/styles/Theme.module.scss.module.css [client] (css) */
+.Theme-module-scss-module__tP3sLG__typographyDark.Theme-module-scss-module__tP3sLG__typographyDark {
+  color: #fff;
+}
+
+.Theme-module-scss-module__tP3sLG__backgroundDark {
+  background-color: #3b3f41de;
+}
+
+.Theme-module-scss-module__tP3sLG__darkTab.Theme-module-scss-module__tP3sLG__darkTab {
+  color: #fff;
+}
+
+
+/* [project]/src/modules/TodoList/TodoList.module.scss.module.css [client] (css) */
+.TodoList-module-scss-module__gsYK1q__todoList {
+  width: 100%;
+  margin: 10px 0;
+}
+
+
+/* [project]/src/modules/Loading/Loading.module.scss.module.css [client] (css) */
+.Loading-module-scss-module___VghPq__loading {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
+
+/* [project]/src/modules/MainContent/MainContent.module.scss.module.css [client] (css) */
+.MainContent-module-scss-module__90mbHa__mainPage {
+  max-width: 1300px;
+  padding: 60px;
+  margin: 0 auto;
+}
+
+.MainContent-module-scss-module__90mbHa__mainSection {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.MainContent-module-scss-module__90mbHa__verticalLayout {
+  display: flex;
+  flex-direction: column;
+}
+
+
+/* [project]/src/modules/AddTodoItem/AddTodoItem.module.scss.module.css [client] (css) */
+.AddTodoItem-module-scss-module__H4k1va__addTodoItem {
+  display: flex;
+  flex-direction: row;
+  margin: 10px 0 0;
+}
+
+
+/* [project]/src/modules/CommentList/CommentList.module.scss.module.css [client] (css) */
+.CommentList-module-scss-module__7rwUVG__todoList {
+  width: 100%;
+  margin: 10px 0;
+}
+
+
+/* [project]/src/modules/AddComment/AddComment.module.scss.module.css [client] (css) */
+.AddComment-module-scss-module__BF6dYW__addTodoItem {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+}
+
+
+/*# sourceMappingURL=src_34c9b6._.css.map*/

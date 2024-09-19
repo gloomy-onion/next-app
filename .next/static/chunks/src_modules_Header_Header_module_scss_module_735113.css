@@ -1,0 +1,57 @@
+/* [project]/src/modules/Header/Header.module.scss.module.css [client] (css) */
+.Header-module-scss-module__eqFSgG__header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end;
+  position: relative;
+}
+
+.Header-module-scss-module__eqFSgG__headerTitles {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.Header-module-scss-module__eqFSgG__headerTitles .Header-module-scss-module__eqFSgG__header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end;
+  position: relative;
+}
+
+.Header-module-scss-module__eqFSgG__headerTitles .Header-module-scss-module__eqFSgG__headerTitles {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.Header-module-scss-module__eqFSgG__headerTitles .Header-module-scss-module__eqFSgG__taskCount.Header-module-scss-module__eqFSgG__taskCount {
+  margin-bottom: 20px;
+}
+
+.Header-module-scss-module__eqFSgG__headerTitles .Header-module-scss-module__eqFSgG__headerButtons {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: relative;
+}
+
+.Header-module-scss-module__eqFSgG__taskCount.Header-module-scss-module__eqFSgG__taskCount {
+  margin-bottom: 20px;
+}
+
+.Header-module-scss-module__eqFSgG__headerButtons {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+/*# sourceMappingURL=src_modules_Header_Header_module_scss_module_735113.css.map*/

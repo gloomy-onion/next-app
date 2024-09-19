@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "@rc-foundation/eslint-config-rc",
+    "@rc-foundation/eslint-config-rc/unicorn"
+  ],
+  "rules": {
+    "function-paren-newline": "off"
+  }
+}

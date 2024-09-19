@@ -1,0 +1,36 @@
+/* [project]/src/modules/Item/TodoItem.module.scss.module.css [client] (css) */
+.TodoItem-module-scss-module__V6iBEq__todoItem {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.TodoItem-module-scss-module__V6iBEq__todoItemButtons {
+  max-width: 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.TodoItem-module-scss-module__V6iBEq__todoItemDone {
+  text-decoration: line-through;
+}
+
+.TodoItem-module-scss-module__V6iBEq__todoItemLabel {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.TodoItem-module-scss-module__V6iBEq__todoIcons {
+  font-size: 24px;
+}
+
+.TodoItem-module-scss-module__V6iBEq__todoItemText {
+  font-size: 20px;
+}
+
+/*# sourceMappingURL=src_modules_Item_TodoItem_module_scss_module_735113.css.map*/

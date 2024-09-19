@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["[project]/src/modules/Header/Header.module.scss.module.css"],"sourcesContent":[".header{display:flex;flex-direction:column;justify-content:space-between;align-items:flex-end;position:relative}.headerTitles{width:100%;display:flex;flex-direction:row;justify-content:space-between;align-items:flex-end}.headerTitles .header{display:flex;flex-direction:column;justify-content:space-between;align-items:flex-end;position:relative}.headerTitles .headerTitles{width:100%;display:flex;flex-direction:row;justify-content:space-between;align-items:flex-end}.headerTitles .taskCount.taskCount{margin-bottom:20px}.headerTitles .headerButtons{width:100%;display:flex;flex-direction:row;justify-content:space-between;position:relative}.taskCount.taskCount{margin-bottom:20px}.headerButtons{width:100%;display:flex;flex-direction:row;justify-content:space-between}"],"names":[],"mappings":"AAAA;;;;;;;;AAAgH;;;;;;;;AAA4G;;;;;;;;AAA8H;;;;;;;;AAA0H;;;;AAAsD;;;;;;;;AAAwH;;;;AAAwC"}},
+    {"offset": {"line": 55, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

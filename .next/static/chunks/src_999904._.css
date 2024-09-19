@@ -1,0 +1,104 @@
+/* [project]/src/modules/Header/Header.module.scss.module.css [client] (css) */
+.Header-module-scss-module__eqFSgG__header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end;
+  position: relative;
+}
+
+.Header-module-scss-module__eqFSgG__headerTitles {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.Header-module-scss-module__eqFSgG__headerTitles .Header-module-scss-module__eqFSgG__header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end;
+  position: relative;
+}
+
+.Header-module-scss-module__eqFSgG__headerTitles .Header-module-scss-module__eqFSgG__headerTitles {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.Header-module-scss-module__eqFSgG__headerTitles .Header-module-scss-module__eqFSgG__taskCount.Header-module-scss-module__eqFSgG__taskCount {
+  margin-bottom: 20px;
+}
+
+.Header-module-scss-module__eqFSgG__headerTitles .Header-module-scss-module__eqFSgG__headerButtons {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: relative;
+}
+
+.Header-module-scss-module__eqFSgG__taskCount.Header-module-scss-module__eqFSgG__taskCount {
+  margin-bottom: 20px;
+}
+
+.Header-module-scss-module__eqFSgG__headerButtons {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+
+/* [project]/src/shared/lib/styles/Theme.module.scss.module.css [client] (css) */
+.Theme-module-scss-module__tP3sLG__typographyDark.Theme-module-scss-module__tP3sLG__typographyDark {
+  color: #fff;
+}
+
+.Theme-module-scss-module__tP3sLG__backgroundDark {
+  background-color: #3b3f41de;
+}
+
+.Theme-module-scss-module__tP3sLG__darkTab.Theme-module-scss-module__tP3sLG__darkTab {
+  color: #fff;
+}
+
+
+/* [project]/src/modules/LanguageDropdown/LanguageDropdown.module.scss.module.css [client] (css) */
+.LanguageDropdown-module-scss-module__4KamkG__dropdownContent {
+  width: 180px;
+  position: absolute;
+  display: none;
+}
+
+.LanguageDropdown-module-scss-module__4KamkG__visible {
+  display: block;
+}
+
+
+/* [project]/src/modules/Loading/Loading.module.scss.module.css [client] (css) */
+.Loading-module-scss-module___VghPq__loading {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
+
+/* [project]/src/modules/Map/Map.module.scss.module.css [client] (css) */
+.Map-module-scss-module__XYP67q__modalMap {
+  max-width: 800px;
+  max-height: 500px;
+}
+
+.Map-module-scss-module__XYP67q__mapImg {
+  width: 100%;
+  height: 100%;
+}
+
+
+/*# sourceMappingURL=src_999904._.css.map*/

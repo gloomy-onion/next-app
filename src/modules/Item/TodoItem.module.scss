@@ -1,0 +1,33 @@
+.todoItem {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.todoItemButtons {
+  max-width: 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.todoItemDone {
+  text-decoration: line-through;
+}
+
+.todoItemLabel {
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.todoIcons {
+  font-size: 24px;
+}
+
+.todoItemText {
+  font-size: 20px;
+}

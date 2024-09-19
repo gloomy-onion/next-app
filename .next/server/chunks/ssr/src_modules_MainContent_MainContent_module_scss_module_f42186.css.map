@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["[project]/src/modules/MainContent/MainContent.module.scss.module.css"],"sourcesContent":[".mainPage{max-width:1300px;padding:60px;margin:0 auto}.mainSection{display:flex;flex-direction:row;justify-content:space-between}.verticalLayout{display:flex;flex-direction:column}"],"names":[],"mappings":"AAAA;;;;;;AAAsD;;;;;;AAA2E"}},
+    {"offset": {"line": 17, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

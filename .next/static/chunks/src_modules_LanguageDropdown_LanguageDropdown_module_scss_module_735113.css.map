@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["[project]/src/modules/LanguageDropdown/LanguageDropdown.module.scss.module.css"],"sourcesContent":[".dropdownContent{width:180px;position:absolute;display:none}.visible{display:block}"],"names":[],"mappings":"AAAA;;;;;;AAA4D"}},
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

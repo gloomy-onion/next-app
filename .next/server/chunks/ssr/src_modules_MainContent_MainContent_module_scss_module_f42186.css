@@ -1,0 +1,19 @@
+/* [project]/src/modules/MainContent/MainContent.module.scss.module.css [ssr] (css) */
+.MainContent-module-scss-module__90mbHa__mainPage {
+  max-width: 1300px;
+  padding: 60px;
+  margin: 0 auto;
+}
+
+.MainContent-module-scss-module__90mbHa__mainSection {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.MainContent-module-scss-module__90mbHa__verticalLayout {
+  display: flex;
+  flex-direction: column;
+}
+
+/*# sourceMappingURL=src_modules_MainContent_MainContent_module_scss_module_f42186.css.map*/

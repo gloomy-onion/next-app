@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["[project]/src/shared/lib/styles/Theme.module.scss.module.css"],"sourcesContent":[".typographyDark.typographyDark{color:#fff}.backgroundDark{background-color:rgba(59,63,65,.87)}.darkTab.darkTab{color:#fff}"],"names":[],"mappings":"AAAA;;;;AAA0C;;;;AAAoD"}},
+    {"offset": {"line": 12, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
