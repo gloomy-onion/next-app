@@ -18,29 +18,26 @@ export const MainContent = () => {
     const backgroundColor = getBackgroundColor(currentTheme);
 
     const { observedElementRef, size } = useResizeObserver();
-
     const isVertical = size.width < 1200;
 
     return (
-        <div className={themeStyles[backgroundColor]}>
-            <main className={styles.mainPage}>
-                <Search />
-                <TodoFilter />
-                <section
-                    className={cn(styles.mainSection, { [styles.verticalLayout]: isVertical })}
-                    ref={observedElementRef}
-                >
-                    <div>
-                        <CommentList />
-                        <AddComment />
-                    </div>
-                    <div>
-                        <TodoList />
-                        <AddTodoItem />
-                    </div>
-                </section>
-                <YandexShare />
-            </main>
-        </div>
+        <main className={cn(themeStyles[backgroundColor], styles.mainPage)}>
+            <Search />
+            <TodoFilter />
+            <section
+                className={cn(styles.mainSection, { [styles.verticalLayout]: isVertical })}
+                ref={observedElementRef}
+            >
+                <div>
+                    <CommentList />
+                    <AddComment />
+                </div>
+                <div>
+                    <TodoList />
+                    <AddTodoItem />
+                </div>
+            </section>
+            {/* /!* <YandexShare /> *!/ ему что то тут не нравится, я закомментировала */}
+        </main>
     );
 };

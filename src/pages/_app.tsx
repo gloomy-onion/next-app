@@ -9,9 +9,7 @@ const MyApp = ({ Component, ...pageProps }: AppProps) => (
         <LocalizationProvider>
             <TodoProvider>
                 <Layout>
-                    <main>
-                        <Component {...pageProps} />
-                    </main>
+                    <Component {...pageProps} />
                 </Layout>
             </TodoProvider>
         </LocalizationProvider>

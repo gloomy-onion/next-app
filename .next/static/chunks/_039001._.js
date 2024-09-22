@@ -4,8 +4,9 @@
 
 __turbopack_export_value__((__turbopack_import__) => {
     return Promise.all([
-  "static/chunks/src_a54e33._.js",
-  "static/chunks/src_modules_Map_MapImage_tsx_da9fdb._.js"
+  "static/chunks/node_modules_next_ebece5._.js",
+  "static/chunks/src_modules_Map_MapImage_tsx_611156._.js",
+  "static/chunks/src_modules_Map_MapImage_tsx_899520._.js"
 ].map((chunk) => __turbopack_load__(chunk))).then(() => {
         return __turbopack_import__("[project]/src/modules/Map/MapImage.tsx [client] (ecmascript)");
     });

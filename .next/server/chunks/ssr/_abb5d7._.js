@@ -28,7 +28,7 @@ class MyDocument extends __TURBOPACK__imported__module__$5b$project$5d2f$node_mo
                         /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("link", {
                             rel: "icon",
                             type: "image/svg+xml",
-                            href: "/vite.svg"
+                            href: "/favicon.svg"
                         }, void 0, false, {
                             fileName: "[project]/src/pages/_document.tsx",
                             lineNumber: 9,
@@ -41,13 +41,6 @@ class MyDocument extends __TURBOPACK__imported__module__$5b$project$5d2f$node_mo
                             fileName: "[project]/src/pages/_document.tsx",
                             lineNumber: 10,
                             columnNumber: 21
-                        }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("title", {
-                            children: "Internship Project"
-                        }, void 0, false, {
-                            fileName: "[project]/src/pages/_document.tsx",
-                            lineNumber: 11,
-                            columnNumber: 21
                         }, this)
                     ]
                 }, void 0, true, {
@@ -57,28 +50,14 @@ class MyDocument extends __TURBOPACK__imported__module__$5b$project$5d2f$node_mo
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("body", {
                     children: [
-                        /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("div", {
-                            id: "root"
-                        }, void 0, false, {
-                            fileName: "[project]/src/pages/_document.tsx",
-                            lineNumber: 14,
-                            columnNumber: 21
-                        }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("div", {
-                            id: "portal-root"
-                        }, void 0, false, {
-                            fileName: "[project]/src/pages/_document.tsx",
-                            lineNumber: 15,
-                            columnNumber: 21
-                        }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$document$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["Main"], {}, void 0, false, {
                             fileName: "[project]/src/pages/_document.tsx",
-                            lineNumber: 16,
+                            lineNumber: 13,
                             columnNumber: 21
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$document$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["NextScript"], {}, void 0, false, {
                             fileName: "[project]/src/pages/_document.tsx",
-                            lineNumber: 17,
+                            lineNumber: 14,
                             columnNumber: 21
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("script", {
@@ -86,13 +65,13 @@ class MyDocument extends __TURBOPACK__imported__module__$5b$project$5d2f$node_mo
                             async: true
                         }, void 0, false, {
                             fileName: "[project]/src/pages/_document.tsx",
-                            lineNumber: 18,
+                            lineNumber: 15,
                             columnNumber: 21
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/pages/_document.tsx",
-                    lineNumber: 13,
+                    lineNumber: 12,
                     columnNumber: 17
                 }, this)
             ]

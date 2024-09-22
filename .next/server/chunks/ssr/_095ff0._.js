@@ -1011,14 +1011,8 @@ const MyApp = ({ Component, ...pageProps })=>/*#__PURE__*/ (0, __TURBOPACK__comm
         children: /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$context$2f$LocalizationContext$2e$tsx__$5b$ssr$5d$__$28$ecmascript$29$__["LocalizationProvider"], {
             children: /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$context$2f$TodoContext$2e$tsx__$5b$ssr$5d$__$28$ecmascript$29$__["TodoProvider"], {
                 children: /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$modules$2f$Layout$2f$Layout$2e$tsx__$5b$ssr$5d$__$28$ecmascript$29$__["Layout"], {
-                    children: /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("main", {
-                        children: /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])(Component, {
-                            ...pageProps
-                        }, void 0, false, {
-                            fileName: "[project]/src/pages/_app.tsx",
-                            lineNumber: 13,
-                            columnNumber: 25
-                        }, this)
+                    children: /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])(Component, {
+                        ...pageProps
                     }, void 0, false, {
                         fileName: "[project]/src/pages/_app.tsx",
                         lineNumber: 12,
