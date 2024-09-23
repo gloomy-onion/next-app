@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["[project]/src/modules/Todo/Todo.module.scss.module.css"],"sourcesContent":[".todo{background:rgba(128,128,128,.08);border-radius:12px;margin:100px auto;padding:100px;display:flex;justify-content:center}"],"names":[],"mappings":"AAAA"}},
+    {"offset": {"line": 9, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

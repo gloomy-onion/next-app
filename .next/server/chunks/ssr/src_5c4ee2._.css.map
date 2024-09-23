@@ -1,0 +1,17 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["[project]/src/modules/Header/Header.module.scss.module.css"],"sourcesContent":[".header{display:flex;flex-direction:column;justify-content:space-between;align-items:flex-end;position:relative}.headerTitles{width:100%;display:flex;flex-direction:row;justify-content:space-between;align-items:flex-end}.headerTitles .header{display:flex;flex-direction:column;justify-content:space-between;align-items:flex-end;position:relative}.headerTitles .headerTitles{width:100%;display:flex;flex-direction:row;justify-content:space-between;align-items:flex-end}.headerTitles .taskCount.taskCount{margin-bottom:20px}.headerTitles .headerButtons{width:100%;display:flex;flex-direction:row;justify-content:space-between;position:relative}.taskCount.taskCount{margin-bottom:20px}.headerButtons{width:100%;display:flex;flex-direction:row;justify-content:space-between}"],"names":[],"mappings":"AAAA;;;;;;;;AAAgH;;;;;;;;AAA4G;;;;;;;;AAA8H;;;;;;;;AAA0H;;;;AAAsD;;;;;;;;AAAwH;;;;AAAwC"}},
+    {"offset": {"line": 55, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 58, "column": 0}, "map": {"version":3,"sources":["[project]/src/shared/lib/styles/Theme.module.scss.module.css"],"sourcesContent":[".typographyDark.typographyDark{color:#fff}.backgroundDark{background-color:rgba(59,63,65,.87)}.darkTab.darkTab{color:#fff}"],"names":[],"mappings":"AAAA;;;;AAA0C;;;;AAAoD"}},
+    {"offset": {"line": 69, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 72, "column": 0}, "map": {"version":3,"sources":["[project]/src/modules/LanguageDropdown/LanguageDropdown.module.scss.module.css"],"sourcesContent":[".dropdownContent{width:180px;position:absolute;display:none}.visible{display:block}"],"names":[],"mappings":"AAAA;;;;;;AAA4D"}},
+    {"offset": {"line": 81, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 84, "column": 0}, "map": {"version":3,"sources":["[project]/src/modules/Loading/Loading.module.scss.module.css"],"sourcesContent":[".loading{display:flex;flex-direction:column;align-content:center}"],"names":[],"mappings":"AAAA"}},
+    {"offset": {"line": 89, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 92, "column": 0}, "map": {"version":3,"sources":["[project]/src/modules/Map/Map.module.scss.module.css"],"sourcesContent":[".modalMap{max-width:800px;max-height:500px}.mapImg{width:100%;height:100%}"],"names":[],"mappings":"AAAA;;;;;AAA2C"}},
+    {"offset": {"line": 101, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 104, "column": 0}, "map": {"version":3,"sources":["[project]/src/modules/Todo/Todo.module.scss.module.css"],"sourcesContent":[".todo{background:rgba(128,128,128,.08);border-radius:12px;margin:100px auto;padding:100px;display:flex;justify-content:center}"],"names":[],"mappings":"AAAA"}},
+    {"offset": {"line": 112, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
