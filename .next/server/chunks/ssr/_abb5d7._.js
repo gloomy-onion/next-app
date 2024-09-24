@@ -28,7 +28,7 @@ class MyDocument extends __TURBOPACK__imported__module__$5b$project$5d2f$node_mo
                         /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("link", {
                             rel: "icon",
                             type: "image/svg+xml",
-                            href: "/favicon.svg"
+                            href: "/favicon.ico"
                         }, void 0, false, {
                             fileName: "[project]/src/pages/_document.tsx",
                             lineNumber: 9,

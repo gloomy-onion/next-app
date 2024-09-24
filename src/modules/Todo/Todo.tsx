@@ -1,7 +1,6 @@
 import React from 'react';
 import { Button, Typography } from 'antd';
 import { useRouter } from 'next/router';
-import { GetServerSideProps } from 'next';
 import { useLocalizationContext } from '../../context/LocalizationContext';
 import { getButtonType } from '../../shared/lib/utils/themeUtils';
 import { useThemeContext } from '../../context/ThemeContext';

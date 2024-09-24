@@ -23,7 +23,8 @@
     "incremental": true
   },
   "include": [
-    "src"
+    "src",
+    "middleware.ts"
   ],
   "references": [
     {
