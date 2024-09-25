@@ -6,7 +6,7 @@ import { TodoItem } from '../Item';
 import styles from './TodoList.module.scss';
 import { useTodoContext } from '../../context/TodoContext';
 import { Loading } from '../Loading';
-import { todoModel } from '../../shared/api/todoModel';
+import { todoModel } from '../../shared/api/models/todoModel';
 
 export const TodoList = () => {
     const { deleteTodo, toggleDone, toggleImportant } = useTodoContext();

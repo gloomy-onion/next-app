@@ -1,7 +1,7 @@
-import { TodoItem } from '../types/todo';
-import { todosRequests } from './todos';
-import { createDataModel } from './fetchDataFactory';
-import { withAbortController } from './abortController';
+import { TodoItem } from '../../types/todo';
+import { todosRequests } from '../todos';
+import { createDataModel } from '../fetchDataFactory';
+import { withAbortController } from '../abortController';
 
 export const todoModel = createDataModel<TodoItem>({
     request: async () => {
