@@ -1,9 +1,9 @@
 import React from 'react';
-import mapImage from '../../shared/lib/assets/img/map.jpg';
+import Image from 'next/image';
 import styles from './Map.module.scss';
 
 const MapImage = () => (
-    <img src={mapImage} className={styles.mapImg} alt="Map from Dora the explorer" />
+    <Image src="/map.jpg" className={styles.mapImg} alt="Map from Dora the explorer" fill />
 );
 
 export default MapImage;

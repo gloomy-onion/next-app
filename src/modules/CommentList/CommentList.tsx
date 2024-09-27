@@ -5,7 +5,7 @@ import { TodoItem } from '../Item';
 import styles from './CommentList.module.scss';
 import { useTodoContext } from '../../context/TodoContext';
 import { Loading } from '../Loading';
-import { commentModel } from '../../shared/api/commentModel';
+import { commentModel } from '../../shared/api/models/commentModel';
 
 export const CommentList = () => {
     const { deleteTodo, toggleDone, toggleImportant } = useTodoContext();

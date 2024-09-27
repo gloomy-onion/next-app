@@ -1,6 +1,6 @@
-import { CommentType } from '../types/comment';
-import { commentsRequests } from './comments';
-import { createDataModel } from './fetchDataFactory';
+import { CommentType } from '../../types/comment';
+import { commentsRequests } from '../comments';
+import { createDataModel } from '../fetchDataFactory';
 
 export const commentModel = createDataModel<CommentType>({
     request: async () => {
